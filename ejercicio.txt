@@ -1,0 +1,1 @@
+Construir una base de datos relacional en MySQL que cumpla con los requerimientos establecidos.
